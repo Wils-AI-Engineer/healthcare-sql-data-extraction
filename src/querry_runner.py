@@ -3,7 +3,7 @@
 # ================================================================
 # Purpose:
 #   Run SQL queries from Python and return results as pandas DataFrames.
-#   This supports the healthcare SQL project and final CSV extraction.
+#   This is to etract a final CSV file ready for ETL analysis.
 # ================================================================
 
 import sys
